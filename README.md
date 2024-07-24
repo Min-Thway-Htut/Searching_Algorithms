@@ -1,3 +1,5 @@
 ## Searching algorithms
 
-Breath-First Search
+Breath-First 
+
+Greedy Best-Fit Search
