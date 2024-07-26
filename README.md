@@ -1,4 +1,4 @@
-## Searching algorithms
+# Searching algorithms
 
 Breath-First 
 
