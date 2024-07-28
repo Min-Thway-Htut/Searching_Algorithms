@@ -1,8 +1,9 @@
-## Searching algorithms
+# Searching algorithms
 
+## Uninformed Search
 Breath-First 
 
+Depth-First 
 
 
-Greedy Best-Fit Search
-
+## Informed Search
