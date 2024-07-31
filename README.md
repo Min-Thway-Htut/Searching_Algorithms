@@ -13,3 +13,5 @@ Uniform Cost Search
 ## Local Search
 
 ## Adversarial Search
+
+Minimax Algorithm
