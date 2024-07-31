@@ -10,5 +10,6 @@ Uniform Cost Search
 
 ## Informed Search
 
-
 ## Local Search
+
+## Adversarial Search
