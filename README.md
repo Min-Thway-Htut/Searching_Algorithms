@@ -9,7 +9,7 @@ Uniform Cost Search
 
 
 ## Informed Search
-
+Hill Climbing Algorithm
 ## Local Search
 
 ## Adversarial Search
