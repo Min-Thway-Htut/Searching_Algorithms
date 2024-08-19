@@ -17,3 +17,5 @@ Hill Climbing Algorithm
 Minimax Algorithm
 
 ## Constraint Satisfaction Problems
+
+Backtracking Search Algorithm
