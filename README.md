@@ -15,3 +15,5 @@ Hill Climbing Algorithm
 ## Adversarial Search
 
 Minimax Algorithm
+
+## Constraint Satisfaction Problems
