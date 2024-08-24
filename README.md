@@ -1,4 +1,4 @@
-# Searching algorithms
+# Artificial Intelligence | Searching Algorithms
 
 ## Uninformed Search
 Breath-First 
